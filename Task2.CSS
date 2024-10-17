@@ -44,12 +44,12 @@ img{
  p.four{
     line-height: 25px;
     text-align: center;
-    font-style: italic;
-    
-
-
- }
-        li{
+    font-style: italic;}
+.list{
+margin: 10px;
+padding: 10px;
+}
+    li{
         list-style-type: circle;
         font-size: 18px;
         color:#666;
